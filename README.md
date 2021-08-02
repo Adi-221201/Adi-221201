@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adi-221201
+👋 Hi, I’m @Aditya-01
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ... Machine Learning and Deep Learning
