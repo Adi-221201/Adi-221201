@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adi-221201
-- <!---
+<!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ... Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on ...
